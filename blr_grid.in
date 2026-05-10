@@ -1,0 +1,9 @@
+table power law
+phi(H) 18.0 vary
+grid from 18.0 to 24.0 in 0.5 dex steps
+hden 8.0 vary
+grid from 8.0 to 14.0 in 0.5 dex steps
+stop column density 22
+iterate to convergence
+save line list "blr_grid.line" no clobber "LineList_BLR.dat" 
+save grid "blr_grid.grd" no clobber 
