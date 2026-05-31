@@ -1,2 +1,2 @@
 # AGN
-tutorials homework and final project
+tutorials homework and final project.
